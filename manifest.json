@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "YouTube Mini Player Button Restorer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brings back the missing mini player button on YouTube with the same 'i' key functionality.",
   "host_permissions": [
     "*://*.youtube.com/*"
